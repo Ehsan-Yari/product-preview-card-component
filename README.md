@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://github.com/Ehsan-FM/product-preview-card-component/)
+- Solution URL: [github](https://github.com/Ehsan-Yari/product-preview-card-component/)
 - Live Site URL: [netlify](https://ehsan-product-preview-card-component.netlify.app/)
 
 ### Built with
